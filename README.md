@@ -12,15 +12,22 @@ W programie:
 5. Przejście do kolejnego pliku 
 6. Zakończenie działania
 
-Rozwój programu:
-1. Wybieranie pojedyńczych plików
-2. Po wskazaniu ścieżki folderu, pokazać listę z plikami mp3 które mają już wyeksportowane tagi do pliku
-3. Dodanie wykonania obwiedni plików, i zapisanie ich w osobnym pliku *.OBW
-4. Edycja tagów w okienku
-5. Dodanie większej ilości tagów
-6. Eksport tagów do pliku pod program DynaMIX
-7. 
-8. Zgrywanie mp3 z płyt
-9. Pobieranie danych (opisu z sewrwerów)
-10. Podział działających funkcji na moduły, aby móc rozwijać program 
-11. Edycja pliku mp3 (obwiedni) wskazanie początku, końca, czy mixów
+# Rozwój programu:
+
+- Dodanie do pliku skrótu tagów bez wpisu, (wg katalogu dunamixa) 
+- Wybieranie pojedyńczych plików
+- Po wskazaniu ścieżki folderu, pokazać listę z plikami mp3 które mają już wyeksportowane tagi do pliku
+- Wybór plików które tych tagów nie mają eksportowanych
+- Dodanie wykonania obwiedni plików, i zapisanie ich w osobnym pliku *.OBW
+- Edycja tagów w okienku
+- Dodanie większej ilości tagów
+- Eksport tagów do pliku pod program DynaMIX
+-
+- Zgrywanie mp3 z płyt
+- Pobieranie danych (opisu z sewrwerów)
+- Podział działających funkcji na moduły, aby móc rozwijać program 
+- Edycja pliku mp3 (obwiedni) wskazanie początku, końca, czy mixów
+
+# Daleka przyszłość
+
+- stworzenie aplikacji webowej do sprawdzenia tagów i skatalogowania plików mp3 dostępnych na dysku (które są z tagami a które bez. wg podziału, z wyszukiwarką itp
