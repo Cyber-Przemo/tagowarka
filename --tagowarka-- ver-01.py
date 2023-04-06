@@ -77,14 +77,14 @@ class App:
             # przeiteruj po słowniku i dodaj opis i wartość taga do stringa
             for tag_name, tag_description in tags_dict.items():
                 if tag_name in tags:
-                    tag_value = tags[tag_name].text[
-                        0].lstrip()  # usunięcie spacji z początku i końca oraz ze środka wartości taga
+                    tag_value = tags[tag_name].text[0].lstrip()  # usunięcie spacji z początku i końca oraz ze środka wartości taga
                     tags_string += f"{tag_description}{tag_value}\n"  # dodanie opisu taga i wartości do stringa
 
             # zapisanie pliku *.dat (bez rozszerzenia mp3)
             filename_without_extension = os.path.splitext(filename)[0]
             with open(os.path.join(self.folder_path.get(), f"{filename_without_extension}.dat"), "w",
-                      encoding="utf-8") as f: f.write(tags_string)
+                      encoding="utf-8") as f: 
+                f.write(tags_string)
 
         # if not mp3_files:
         #     tk.messagebox.showinfo("Brak plików", "Brak plików do tagowania w wybranym folderze.")
