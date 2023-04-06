@@ -17,9 +17,10 @@ Rozwój programu:
 2. Po wskazaniu ścieżki folderu, pokazać listę z plikami mp3 które mają już wyeksportowane tagi do pliku
 3. Dodanie wykonania obwiedni plików, i zapisanie ich w osobnym pliku *.OBW
 4. Edycja tagów w okienku
-5. 
-6.
+5. Dodanie większej ilości tagów
+6. Eksport tagów do pliku pod program DynaMIX
 7. 
 8. Zgrywanie mp3 z płyt
 9. Pobieranie danych (opisu z sewrwerów)
 10. Podział działających funkcji na moduły, aby móc rozwijać program 
+11. Edycja pliku mp3 (obwiedni) wskazanie początku, końca, czy mixów
