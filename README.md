@@ -31,3 +31,17 @@ W programie:
 # Daleka przyszłość
 
 - stworzenie aplikacji webowej do sprawdzenia tagów i skatalogowania plików mp3 dostępnych na dysku (które są z tagami a które bez. wg podziału, z wyszukiwarką itp
+
+
+# OPIS PLIKÓW
+
+Plik --tagowarka-- ver-01.py - działający.
+
+Plik --tagowarka- ver-02.py
+rozszerzony.
+
+Po uruchomieniu programu, wybieramy Wybierz pliki,
+Pliki wyświewtlają się w tabeli na liście
+
+Klikamy przycisk TAGUJ
+- Program powinien odczytać tagi, zapisać je do pliku tekstowego dat, ale tak się nie dzieje
